@@ -1,6 +1,6 @@
 # multi-agent
-project for cs440 (pacman part 3) 
-Assignment inspired by UC Berkeley CS188 Intro to AI Course 
+project for cs440 (pacman part 3) //
+Assignment inspired by UC Berkeley CS188 Intro to AI Course //
 https://ai.berkeley.edu/home.html
 
 **Edited Files**
