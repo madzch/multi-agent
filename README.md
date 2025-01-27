@@ -9,7 +9,7 @@ pacman.py	- The main file that runs Pacman games. This file also describes a Pac
 game.py	- The logic behind how the Pacman world works. This file describes several supporting types like AgentState, Agent, Direction, and Grid.<br/>
 util.py	- Useful data structures for implementing search algorithms.<br/>
 
-**Test Files**
+**Test Files**<br/>
 extra - folder containing extra credit autograder tests.<br/>
 q1 - q5 - test cases for questions 1-5, linked in the ai Berkely course.<br/>
 
